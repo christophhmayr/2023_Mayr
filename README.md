@@ -1,7 +1,8 @@
 # Mayr_2023
 Code for the spatial transcriptomic paper on IPF lungs
 
-![image](https://github.com/christophhmayr/2023_Mayr/assets/58946604/9115aff0-d2bf-4211-8dd2-237f94383c34)
+![image](https://github.com/christophhmayr/2023_Mayr/assets/58946604/e8134d00-8780-407e-8072-880af683f9d5)
+
 
 ## Data availability
 
